@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TC\\Portal\\CoverholderPortal\\Portal\\CoverholderPortal\\CoverholderPortal\\CoverholderPortal.csproj": {}
+    "C:\\TC\\Portal\\Portal\\CoverholderPortal\\CoverholderPortal\\CoverholderPortal.csproj": {}
   },
   "projects": {
-    "C:\\TC\\Portal\\CoverholderPortal\\Portal\\CoverholderPortal\\AutomationPlatformVipr\\AutomationPlatformVipr.csproj": {
+    "C:\\TC\\Portal\\Portal\\CoverholderPortal\\AutomationPlatformVipr\\AutomationPlatformVipr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TC\\Portal\\CoverholderPortal\\Portal\\CoverholderPortal\\AutomationPlatformVipr\\AutomationPlatformVipr.csproj",
+        "projectUniqueName": "C:\\TC\\Portal\\Portal\\CoverholderPortal\\AutomationPlatformVipr\\AutomationPlatformVipr.csproj",
         "projectName": "AutomationPlatformVipr",
-        "projectPath": "C:\\TC\\Portal\\CoverholderPortal\\Portal\\CoverholderPortal\\AutomationPlatformVipr\\AutomationPlatformVipr.csproj",
+        "projectPath": "C:\\TC\\Portal\\Portal\\CoverholderPortal\\AutomationPlatformVipr\\AutomationPlatformVipr.csproj",
         "packagesPath": "C:\\Users\\TSaseendran\\.nuget\\packages\\",
-        "outputPath": "C:\\TC\\Portal\\CoverholderPortal\\Portal\\CoverholderPortal\\AutomationPlatformVipr\\obj\\",
+        "outputPath": "C:\\TC\\Portal\\Portal\\CoverholderPortal\\AutomationPlatformVipr\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "DotNetSeleniumExtras.PageObjects": {
               "target": "Package",
@@ -109,18 +111,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\TC\\Portal\\CoverholderPortal\\Portal\\CoverholderPortal\\CoverholderPortal\\CoverholderPortal.csproj": {
+    "C:\\TC\\Portal\\Portal\\CoverholderPortal\\CoverholderPortal\\CoverholderPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TC\\Portal\\CoverholderPortal\\Portal\\CoverholderPortal\\CoverholderPortal\\CoverholderPortal.csproj",
+        "projectUniqueName": "C:\\TC\\Portal\\Portal\\CoverholderPortal\\CoverholderPortal\\CoverholderPortal.csproj",
         "projectName": "CoverholderPortal",
-        "projectPath": "C:\\TC\\Portal\\CoverholderPortal\\Portal\\CoverholderPortal\\CoverholderPortal\\CoverholderPortal.csproj",
+        "projectPath": "C:\\TC\\Portal\\Portal\\CoverholderPortal\\CoverholderPortal\\CoverholderPortal.csproj",
         "packagesPath": "C:\\Users\\TSaseendran\\.nuget\\packages\\",
-        "outputPath": "C:\\TC\\Portal\\CoverholderPortal\\Portal\\CoverholderPortal\\CoverholderPortal\\obj\\",
+        "outputPath": "C:\\TC\\Portal\\Portal\\CoverholderPortal\\CoverholderPortal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -138,9 +140,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\TC\\Portal\\CoverholderPortal\\Portal\\CoverholderPortal\\AutomationPlatformVipr\\AutomationPlatformVipr.csproj": {
-                "projectPath": "C:\\TC\\Portal\\CoverholderPortal\\Portal\\CoverholderPortal\\AutomationPlatformVipr\\AutomationPlatformVipr.csproj"
+              "C:\\TC\\Portal\\Portal\\CoverholderPortal\\AutomationPlatformVipr\\AutomationPlatformVipr.csproj": {
+                "projectPath": "C:\\TC\\Portal\\Portal\\CoverholderPortal\\AutomationPlatformVipr\\AutomationPlatformVipr.csproj"
               }
             }
           }
@@ -153,6 +156,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -210,7 +214,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
